@@ -9,7 +9,12 @@ import {
 import Internal from "./pages/internal/Internal";
 import Login from "./pages/login/login";
 
-
+document.body.style.width = '100%';
+document.body.style.minHeight = '100vh';
+document.body.style.backgroundColor = '#f3f3f3';
+document.body.style.margin = 0;
+document.body.style.padding = 0;
+document.body.style.color = "#73879C";
 
 const TemplateReactJS = ({...props}) => (
     
