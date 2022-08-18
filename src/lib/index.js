@@ -1,1 +1,1 @@
-export { default } from "./TemplateReactJS";
+export { TemplateReactJS } from "./TemplateReactJS";
